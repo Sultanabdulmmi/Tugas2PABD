@@ -1,0 +1,7 @@
+C:\Users\sulta\source\repos\Exe1\Exe1\bin\Debug\Exe1.exe.config
+C:\Users\sulta\source\repos\Exe1\Exe1\bin\Debug\Exe1.exe
+C:\Users\sulta\source\repos\Exe1\Exe1\bin\Debug\Exe1.pdb
+C:\Users\sulta\source\repos\Exe1\Exe1\obj\Debug\Exe1.csprojAssemblyReference.cache
+C:\Users\sulta\source\repos\Exe1\Exe1\obj\Debug\Exe1.csproj.CoreCompileInputs.cache
+C:\Users\sulta\source\repos\Exe1\Exe1\obj\Debug\Exe1.exe
+C:\Users\sulta\source\repos\Exe1\Exe1\obj\Debug\Exe1.pdb
